@@ -12,6 +12,7 @@ const font = Delius_Unicase({
 
 })
 
+// MAIN COMPONENT
 export default function RootLayout({
   children,
 }: Readonly<{
