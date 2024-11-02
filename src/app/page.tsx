@@ -18,7 +18,7 @@ export default function Page() {
             <button className="size-[50px] bg-white flex items-center justify-center rounded-full" onClick={() => {
                 setLoading(true);
                 chat(text).then((e) => {
-                    setStickFig(e);
+                    setStickFig(e!);
                 }).catch(console.error).finally(() => {
                     setLoading(false);
                 });
