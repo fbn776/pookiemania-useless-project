@@ -10,8 +10,8 @@ dme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9
 
 ### Team Members
 - Team Lead: Febin Nelson P - RIT Kottayam
-- Member 2: Abhiram Akosk - RIT Kottayam
-- Member 3: Aysha Naruin - RIT Kottayam
+- Member 2: Abhiram Ashok - RIT Kottayam
+- Member 3: Aysha Naurin - RIT Kottayam
 
 ### Project Description
 Tell us your words and we will give you back a stickman figure that best explains your situation. Pookiemania is a fun project that generates stickman figures based on the words you provide. It's a fun way to express your emotions and situations in a creative way.
