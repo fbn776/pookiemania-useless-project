@@ -45,7 +45,7 @@ npm run dev
 # Screenshots (Add at least 3)
 ![ss1.png](public/ss1.png)
 ![ss2.png](public/ss2.png)
-![s3.png](public/new_ss3.png)
+![ss3.png](public/ss3.png)
 
 Made with ❤️ at TinkerHub Useless Projects
 
