@@ -11,7 +11,7 @@ export default function Page() {
 
     return <div className="w-full h-[100dvh] bg-main flex flex-col items-center justify-center gap-10">
         <div className="flex gap-2 items-center">
-            <input type="text" className="px-6 py-4 rounded-full" placeholder="Write yurrr mooooddddd"
+            <input type="text" className="w-[500px] max-sm:w-[300px] px-6 py-4 rounded-full" placeholder="Got a mood? Spill it, and we’ll stick-figure it! 😂"
                    onChange={(e) => {
                        setText(e.target.value)
                    }} value={text}/>
