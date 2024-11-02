@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 
 const font = Delius_Unicase({
     weight: ['400'],
-
+    subsets: ["latin"]
 })
 
 // MAIN COMPONENT
